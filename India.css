@@ -1,0 +1,34 @@
+.orange{
+    height: 600px;
+    width: 900px;
+    background-color:#FF671F;
+    position: relative;
+   margin: 80px;
+    
+}
+.white{
+    height: 200px;
+    width: 100%;
+    background-color: #ffffff;
+    top:200px;
+    position: absolute;
+}
+.green{
+    height: 200px;
+    width: 100%;
+    background-color:#046A38;
+    top:200px;
+    position: absolute;
+}
+.circle img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    top: -200px;
+    left: 38%;
+    position: absolute;
+}
+body > div{
+    border: 1px solid black;
+}
